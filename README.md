@@ -15,21 +15,21 @@ A Blazing fast Video/voice Call and Chat Application, using Flutter and Firebase
 
 * To Run this project properly these is the setup you must follow.
 
-1. Connect the app to your Firebase Project from your Firebase Console and add the google-services.json in the /android/app directory.
+ 1. Connect the app to your Firebase Project from your Firebase Console and add the google-services.json in the /android/app directory.
 
-2. Inside /lib/configs, where you'll find file called as agora_configs.dart.
+ 2. Inside /lib/configs, where you'll find file called as agora_configs.dart.
 
-3. Inside agora_configs.dart add:
+ 3. Inside agora_configs.dart add:
 
     - const APP_ID = '<YOUR_AGORA_SDK_TOKEN>'; from your [Agora.io]https://www.agora.io/en/.
 
 
 ## ReConnect UI Screens
 
-https://github.com/priyeshchowta1997/ReConnect/blob/master/screenshots/image1.jpg
-https://github.com/priyeshchowta1997/ReConnect/blob/master/screenshots/image2.jpg
-https://github.com/priyeshchowta1997/ReConnect/blob/master/screenshots/image3.jpg
-https://github.com/priyeshchowta1997/ReConnect/blob/master/screenshots/image4.jpg
+<img src="screenshots/image1.jpg" width="200"> <img src="screenshots/image2.jpg" width="200"> <img src="screenshots/image3.jpg" width="200"> <img src="screenshots/image4.jpg" width="200">
+
+
+
 
 
 ## ReConnect Features :+1::thumbsup:
