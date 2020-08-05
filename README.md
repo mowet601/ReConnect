@@ -26,10 +26,10 @@ A Blazing fast Video/voice Call and Chat Application, using Flutter and Firebase
 
 ## ReConnect UI Screens
 
-(/screenshots/image1.jpg)
-(/screenshots/image2.jpg)
-(/screenshots/image3.jpg)
-(/screenshots/image4.jpg)
+(image1.jpg)
+(image2.jpg)
+(image3.jpg)
+(image4.jpg)
 
 
 ## ReConnect Features :+1::thumbsup:
