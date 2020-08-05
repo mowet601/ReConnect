@@ -1,10 +1,42 @@
-# naya_project
+# ReConnect
 
-A new Flutter project.
+A new Flutter Chat and Video/voice call project.
+
+## Description 
+
+A Blazing fast Video/voice Call and Chat Application, using Flutter and Firebase for Google Sign In/Sign Up.
 
 ## Getting Started
 
-This project is a Chat app using agora sdk for video and voice call and using firebase for signin and Database.
+* Clone this repo
+* Run flutter run (remember to open simulator or connect physical device, iOS auto run additional command pod install).
+
+## Setup
+
+* To Run this project properly these is the setup you must follow.
+
+1. Connect the app to your Firebase Project from your Firebase Console and add the google-services.json in the /android/app directory.
+
+2. Inside /lib/configs, where you'll find file called as agora_configs.dart.
+
+3. Inside agora_configs.dart add:
+
+    - const APP_ID = '<YOUR_AGORA_SDK_TOKEN>'; from your [Agora.io]https://www.agora.io/en/.
+
+
+## ReConnect UI Screens
+
+(/screenshots/image1.jpg)
+(/screenshots/image2.jpg)
+(/screenshots/image3.jpg)
+(/screenshots/image4.jpg)
+
+
+## ReConnect Features :+1::thumbsup:
+
+* Ability to Send text messages and images.
+* Ability to video/voice call.
+* Ability to track Call logs.
 
 A few resources to get you started if this is your first Flutter project:
 
